@@ -24,11 +24,11 @@ body {
     font-size: 16px;
 }
 
-.escola-imagem{
+.loja-imagem{
     width: 25%;
 }
 
-.escola{
+.loja{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -37,38 +37,38 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.loja-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.loja-titulo{
     padding: 24px 0;
 }
 
-.estudante{
+.produto{
     padding: 24px 0;
 }
-.estudante-imagem{
+.produto-imagem{
     width: 350px;
 }
 
-.estudante-icone{
+.produto-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.estudante-div{
+.produto-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.produto-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.produto-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
